@@ -1,4 +1,4 @@
-[Mario – jednoduchá plošinovka.html](https://github.com/user-attachments/files/33241152/Mario.jednoducha.plosinovka.html)
+
 <!DOCTYPE html>
 <html lang="cs">
 <head>
